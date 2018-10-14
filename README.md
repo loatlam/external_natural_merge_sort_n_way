@@ -5,4 +5,4 @@ the repository includes 2 files (2 programs):
 
 instruction is included in each program itself, just run the program and follow the instruction.
 
-those program are used for testing.
+those program are used for testing
