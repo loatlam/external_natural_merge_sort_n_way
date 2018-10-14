@@ -4,3 +4,5 @@ the repository includes 2 files (2 programs):
 - file_bin_random_double (randome double numbers to a file)
 
 instruction is included in each program itself, just run the program and follow the instruction.
+
+those program are used for testing.
