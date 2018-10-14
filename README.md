@@ -1,2 +1,6 @@
 # external_natural_merge_sort_n_way
-merge_source_and_random_double_source
+the repository includes 2 files (2 programs):
+- merge
+- file_bin_random_double
+
+instruction is included in each program itself, just run the program and follow the instruction.
